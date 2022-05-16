@@ -2,10 +2,13 @@
 
 class Home
 {
+	public function __construct () {
+		
+		echo 'Test 1';
+	}
 	public function Index()
 	{
-		$title = 'site';
-		echo 'index burası';
+		echo 'bu index sayfası';
 	}
 }
 

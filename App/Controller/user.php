@@ -8,8 +8,8 @@ class Control {
         echo "<pre>en üst\n";
     }
     public function Index () {
-        
-        echo "indexi";
+
+
     }
 
 }
